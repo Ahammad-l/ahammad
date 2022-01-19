@@ -29,9 +29,30 @@ A virtual assistant, also called an AI assistant or digital assistant, is an app
       By this function I can able to close  apps like pubg,instagram,google ,facebook etc by providing .exe of every app
       SREENSHOT:
        By this function I can able to take screenshot by  pyautogui module and I provided path to which folder I wnant to save my screenshots 
+       FOR ALARM
+        and i have taken alaram time from the user and I campared the present time with the alarm if it is true that alaram rings .
+USED LIBRARIES AND MODULES :
+ pyttsx3 
+ speech_recognition 
+ datetime
+ wikipedia 
+ webbrowser
+ os
+ smtpl
+ pywhatkit
+ pyautogui
+keyboard
+sapi5
+
+WHAT FUNCTIONS I USE :
+I  PERSONALLY USE WHATSAPP FUNCTION TO SEND BIRTHDAY WISHES TO FRIENDS AT EXACT 12 
+I USE YOUTUBE AUTOMATION AND SCREENSHOT TO TAKE SCRRENSHOT DURING IMPORTANT PART OF THE LECTURE 
+
+      
+        
        
        
-       and i have taken alaram time from the user and I campared the present time with the alarm if it is true that alaram rings .
+      
        
        
        
